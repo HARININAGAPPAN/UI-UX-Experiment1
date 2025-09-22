@@ -3,7 +3,7 @@
 Hands-on UI/UX Experiments
 
 # Algorithm:
-1. Hands-on UI/UX Experiments
+
 
 a. Explore the fundamentals of UI and UX
 
